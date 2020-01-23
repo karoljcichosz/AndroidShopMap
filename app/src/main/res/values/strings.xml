@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShopMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ilo">opis</string>
+    <string name="y">y</string>
+    <string name="x">x</string>
+    <string name="cena">promien</string>
+    <string name="nazwa">nazwa</string>
+    <string name="usu">unun</string>
+    <string name="lista_zakup_w">coo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="mapa">Mapa</string>
+</resources>
